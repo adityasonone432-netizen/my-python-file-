@@ -1,0 +1,48 @@
+Found File : d.txt.txt
+Found File : e.txt.txt
+Search completed successfully
+Error : [WinError 183] Cannot create a file when that file already exists: 'Demo\\d.txt.txt' -> 'Demo\\d.doc.doc'
+Renamed : d.txt.txt
+Renamed : e.txt.txt
+Renamed : f.txt.txt
+Renamed : g.txt.txt
+Rename completed
+Rename completed
+---------Directory Rename Started---------
+Rename completed
+----------copy all files from first directory to second directory--------
+Copied : d.doc.doc
+Copied : e.doc.doc
+Copied : f.doc.doc
+Copied : g.doc.doc
+Copy completed
+----------copy all file for specific exetention first directory to second directory----------
+Copy with extension completed
+
+--------------Checksum Report--------
+Demo\d.doc.doc -> d41d8cd98f00b204e9800998ecf8427e
+Demo\e.doc.doc -> d41d8cd98f00b204e9800998ecf8427e
+Demo\f.doc.doc -> d41d8cd98f00b204e9800998ecf8427e
+Demo\g.doc.doc -> d41d8cd98f00b204e9800998ecf8427e
+
+--------------Duplicate File Report:Fri Feb  6 20:08:52 2026-------
+Duplicate Files:
+Demo\d.doc.doc
+Demo\e.doc.doc
+Demo\f.doc.doc
+Demo\g.doc.doc
+
+--------------Duplicate File Report :Fri Feb  6 20:13:39 2026-------
+Deleted : Demo\e.doc.doc
+Deleted : Demo\f.doc.doc
+Deleted : Demo\g.doc.doc
+
+--------------Duplicate Removal Report :Fri Feb  6 20:16:29 2026-------
+
+--------------Duplicate Removal  + Time Report :Fri Feb  6 20:22:34 2026-------
+Execution Time : 0.0015494823455810547
+
+--------------Duplicate Removal  + Time Report :Fri Feb  6 20:23:49 2026-------
+Deleted : Demo\d.doc - Copy.doc
+Deleted : Demo\d.doc.doc
+Execution Time : 0.002966165542602539
